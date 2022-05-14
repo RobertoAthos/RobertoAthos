@@ -10,7 +10,6 @@
 - FireBase <br>
 - MongoDB
 - NodeJs
-- JQuery
 - Bootstrap <br> <br>
 
 ### Tecnologias que eu uso no meu dia
