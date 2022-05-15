@@ -1,16 +1,12 @@
 ## Olá! Eu sou o Roberto Athos 👋
+#### Um desenvolvedor apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
+## Vamos Conectar
 [![Email](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573999335493)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robertnobeat_oficial/)
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoAthos&show_icons=true&theme=tokyonight)
-
-
-### Aprendendo: 
-- FireBase <br>
-- MongoDB
-- NodeJs
-- Bootstrap <br> <br>
 
 ### Tecnologias que eu uso no meu dia
 
@@ -22,3 +18,11 @@
   <img alt="react logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="jquery logo" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
  </div>
+ 
+### Aprendendo: 
+- FireBase <br>
+- MongoDB
+- NodeJs
+- Bootstrap <br> <br>
+
+
