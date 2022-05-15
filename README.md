@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Roberto Athos 👋
 #### Um desenvolvedor apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-## Vamos Conectar
-[![Email](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573999335493)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robertnobeat_oficial/)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoAthos&show_icons=true&theme=tokyonight)
@@ -25,4 +24,6 @@
 - NodeJs
 - Bootstrap <br> <br>
 
-
+## Vamos Conectar
+[![Email](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573999335493)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robertnobeat_oficial/)
