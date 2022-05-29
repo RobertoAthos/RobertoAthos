@@ -4,9 +4,6 @@
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoAthos&show_icons=true&theme=tokyonight)
-
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"> <br>
