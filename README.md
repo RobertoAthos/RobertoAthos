@@ -19,7 +19,7 @@
 - FireBase <br>
 - MongoDB
 - NodeJs
-- Bootstrap <br> <br>
+ <br> <br>
 
 ## Vamos Conectar
 [![Email](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573999335493)
