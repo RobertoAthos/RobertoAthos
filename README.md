@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Roberto Athos 👋
 #### Um desenvolvedor apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+
+### 📚 Meu Portfólio : https://robertoportfolio.vercel.app/
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 
@@ -14,10 +17,17 @@
  </div>
  
 ### Aprendendo: 
-- FireBase <br>
 - MongoDB
-- NodeJs
+- Template Ejs
  <br> <br>
+
+## Conhecimentos em:
+- Firebase
+-NodeJs
+-Jquery
+-Bootstrap
+-Tailwind
+-styled-components
 
 ## Vamos Conectar
 [![Email](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573999335493)
