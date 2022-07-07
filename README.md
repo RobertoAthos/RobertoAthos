@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Roberto Athos 👋
 #### Um desenvolvedor apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
-### 📚 Meu Portfólio : https://robertoportfolio.vercel.app/
+### 📚 Meu Portfólio : https://github.com/RobertoAthos/portfolio-v2
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
