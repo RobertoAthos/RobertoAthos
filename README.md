@@ -18,7 +18,8 @@
  
 ### Aprendendo: 
 - MongoDB
-- Template Ejs
+- Socket
+- Redux
  <br> <br>
 
 ## Conhecimentos em:
