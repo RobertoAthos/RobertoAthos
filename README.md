@@ -26,7 +26,6 @@
 - Firebase
 -NodeJs
 -Jquery
--Bootstrap
 -Tailwind
 -styled-components
 
