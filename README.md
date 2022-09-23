@@ -29,7 +29,6 @@
 - Firebase
 - NodeJs
 - MongoDB
-- Jquery
 - Tailwind
 - styled-components
 
