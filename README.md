@@ -20,11 +20,13 @@
  
  
 
-## Conhecimentos em:
+## Skills:
 - Html
 - Css
 - Javascript
 - Reactjs
+- NextJs
+- TypeScript
 - Redux 
 - Firebase
 - NodeJs
