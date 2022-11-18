@@ -6,7 +6,7 @@
   
 # Hello! I´m Roberto Athos 👋
   
-#### A developer passionate for technology, turning dreamas into reality through code
+#### A developer passionate for technology, turning dreams into reality through code
 
 ### 📚 Portfolio :https://robertoathosdeveloper.vercel.app/
 
