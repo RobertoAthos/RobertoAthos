@@ -1,13 +1,13 @@
-## Olá! Eu sou o Roberto Athos 👋
-#### Um desenvolvedor apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+# Hello! I´m Roberto Athos 👋
+#### A developer passionate for technology turning dreamas into reality throught code
 
-### 📚 Meu Portfólio :https://robertoathosdeveloper.vercel.app/
+### 📚 Portfólio :https://robertoathosdeveloper.vercel.app/
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About
 
 
 
-### Tecnologias que eu uso no cotidiano 
+### Stacks i love to work with
 
 <div style="display: inline_block"> <br>
   <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,24 +16,14 @@
   <img alt="react logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="react logo" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="react logo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img src='https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql'/>
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>
  </div>
- 
+
  
 
-## Skills:
-- Html
-- Css
-- Javascript
-- Reactjs
-- NextJs
-- TypeScript
-- Redux 
-- Firebase
-- NodeJs
-- MongoDB
-- Tailwind
-- styled-components
 
-## Vamos Conectar
+## Lets Connect
 [![Email](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573999335493)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-athos-6a0a1517a/)
