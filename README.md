@@ -1,27 +1,10 @@
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270"/>
-  
-
+<div>
   
 # Hello! I´m Roberto Athos 👋
   
-#### A developer passionate for technology, turning dreams into reality through code
-
-### 📚 Portfolio :https://robertoathosdeveloper.vercel.app/
-
- <div/>
-
-<div style="display: inline_block " align="center"> <br>
+Welcome to my page, im a developer passionate for technology, trying turning dreams into reality through code.
   
-  <div align="center">
-  <a href="https://github.com/Hildebrando-Viana-Matos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAthos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAthos&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ### Stacks i love to work with <br/>
-  
+### Stacks i can code with:
   
   <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,6 +15,22 @@
   <img alt='typescript logo' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img alt='graphql logo' src='https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql'/>
   <img alt='nextjs logo' src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>
+
+### 📚 Portfolio :https://robertoathosdeveloper.vercel.app/
+
+ <div/>
+
+<div style="display: inline_block " align="center"> <br>
+  
+  <div>
+  <a href="https://github.com/Hildebrando-Viana-Matos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAthos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAthos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  
+  
+ 
  </div>
 
  
