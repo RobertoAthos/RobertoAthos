@@ -1,8 +1,8 @@
 <div>
   
-# Hello! I´m Roberto Athos 👋
+# Hi! I´m Roberto Athos 👋
   
-Welcome to my page, im a developer passionate for technology, trying turning dreams into reality through code.
+Welcome to my page, i´m a software engineer turning dreams into reality through code.
   
 ### Stacks i can code with:
   
@@ -15,16 +15,15 @@ Welcome to my page, im a developer passionate for technology, trying turning dre
   <img alt='typescript logo' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img alt='graphql logo' src='https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql'/>
   <img alt='nextjs logo' src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>
-
-### 📚 Portfolio :https://robertoathosdeveloper.vercel.app/
+  <img alt='python logo' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
+  <img alt='aws logo' src='https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white' />
+  <img alt='docker logo' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'/>
 
  <div/>
 
 <div style="display: inline_block " align="center"> <br>
   
   <div>
-  <a href="https://github.com/Hildebrando-Viana-Matos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAthos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAthos&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -36,6 +35,6 @@ Welcome to my page, im a developer passionate for technology, trying turning dre
  
 
 
-## Lets Connect
+## Let´s Connect
 [![Email](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573999335493)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-athos-6a0a1517a/)
