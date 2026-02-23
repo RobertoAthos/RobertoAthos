@@ -27,9 +27,6 @@ Welcome to my page, i´m a software engineer turning dreams into reality through
 
  <div/>
 
-  <br/><br/>
-  <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAthos&layout=donut'/>
-
 
 
  
